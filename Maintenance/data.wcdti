@@ -1,0 +1,40 @@
+<MSOIMIME>
+   <WCFile>
+      <Attribute key="IBA|Division"></Attribute>
+      <Attribute key="Context Creator">Organisation Administrator</Attribute>
+      <Attribute key="Context Create Timestamp attrFormat=UTC">2014-01-30 01:11:33.0</Attribute>
+      <iterationObid>OR:wt.doc.WTDocument:932725965</iterationObid>
+      <wtname>ESP0021 - Windchill Dashboard</wtname>
+      <URL>http://plm-ts.csl.local/Windchill/servlet/WindchillGW/wt.fv.master.StandardMasterService/doDirectDownload/ESP0021%20-%20Windchill%20Dashboard.xlsm?folderId=926107003&amp;ft=FF&amp;userid=862900566&amp;adId=932731663&amp;fileName=000000022a56bb&amp;refsize=1183347&amp;mime=application/vnd.ms-excel.sheet.macroEnabled.12&amp;mk=wt.fv.master.StandardMasterService&amp;ofn=ESP0021%20-%20Windchill%20Dashboard.xlsm&amp;c=84&amp;riid=-1&amp;sT=1559889725&amp;sign=rKrvvgaaSowV3enlk8C%2Bkg%3D%3D&amp;site=http%3A%2F%2Fplm-ts.csl.local%2FWindchill%2Fservlet%2FWindchillGW&amp;AUTH_CODE=HmacMD5&amp;isProxy=true</URL>
+      <Attribute key="IBA|PRODUCT_LINE"></Attribute>
+      <Attribute key="ptc.c|CAD_PART_Association"></Attribute>
+      <Attribute key="Context Last Modified Timestamp attrFormat=UTC">2014-01-30 01:11:38.0</Attribute>
+      <context>ESP-Specification</context>
+      <Attribute key="MBA|CAD_PART_Association"></Attribute>
+      <obid>VR:wt.doc.WTDocument:677615207:445972280-1191359918599-8915406-147-0-16-172@plm-ts.csl.local</obid>
+      <lifeCycleState>In Work</lifeCycleState>
+      <Attribute key="ptc.c|Division"></Attribute>
+      <Comments></Comments>
+      <Attribute key="Doc CreatedAt attrFormat=UTC">2015-10-19 12:26:56.0</Attribute>
+      <versionInfo>01.145</versionInfo>
+      <Attribute key="IBA|DESCRIPTION"></Attribute>
+      <Type>General Document</Type>
+      <RevisionInfo>01</RevisionInfo>
+      <Attribute key="Doc ModifiedBy Name">Steve Martel</Attribute>
+      <Attribute key="Document number">ESP0021</Attribute>
+      <organization>Camoplast-TS</organization>
+      <Attribute key="Doc LastUpdated attrFormat=UTC">2019-05-31 12:22:28.0</Attribute>
+      <Attribute key="MBA|Division"></Attribute>
+      <Attribute key="Doc Creator">Steve Martel</Attribute>
+      <filename>ESP0021 - Windchill Dashboard.xlsm</filename>
+      <uploadpath>C:\zzz\DTI\ESP0021 - Windchill Dashboard.xlsm</uploadpath>
+      <Role>PRIMARY</Role>
+      <LastModified>2019-05-31T12:22:28</LastModified>
+   </WCFile>
+   <WCPref>
+      <session>QmFzaWMgYVhSallXUnRhVzQ2U1c1bWIzUmxZMmd4TkNFPQ==</session>
+      <codebase>http://plm-ts.csl.local/Windchill:445972280-1191359918599-8915406-147-0-16-172</codebase>
+      <workspacePath></workspacePath>
+      <downloadOpType>ALWAYS_ASK</downloadOpType>
+   </WCPref>
+</MSOIMIME>

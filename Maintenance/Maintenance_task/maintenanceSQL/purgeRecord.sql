@@ -1,0 +1,1 @@
+SELECT ad.rol as ObjectType, count(ad.a5) as Objects, round(sum(dbms_lob.getlength(lobloc)) / POWER(1024,2), 2) as SizeMB FROM StreamData sd, (SELECT DISTINCT b.ida3a5 a5, c.CLASSNAMEKEYROLEAOBJECTREF rol FROM applicationdata b, holdertocontent c WHERE b.ida2a2=c.ida3b5) ad WHERE ad.a5=sd.ida2a2 GROUP BY ad.rol ORDER BY 3;

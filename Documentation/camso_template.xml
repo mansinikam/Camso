@@ -1,0 +1,13 @@
+<annotationtemplates name="Camso">
+	<template name="LK_Review_Notes">
+		<property appliesto="note" value="00000" type="color"/>
+		<property appliesto="note" value="10" type="fontsize"/>
+		<property appliesto="note" value="rectangle" type="shape"/>
+		<property appliesto="note" value="false" type="textexpanded"/>
+		<property appliesto="note" value="false" type="lockonzoom"/>
+		<property appliesto="leaderline" value="1" type="linewidth"/>
+		<property appliesto="leaderline" value="FF0000" type="color"/>
+		<property appliesto="freehand" value="58FF33" type="color"/>
+		<property appliesto="freehand" value="1" type="linewidth"/>
+	</template>
+</annotationtemplates>

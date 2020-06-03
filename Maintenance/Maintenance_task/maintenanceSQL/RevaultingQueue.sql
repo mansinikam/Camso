@@ -1,0 +1,1 @@
+(select sq.name, sq.queuestate, sq.enabled, se.codec5 , to_char(se.scheduletime,'dd.mm.yyyy hh24:mi:ss')  from SCHEDULEQUEUE sq, SCHEDULEQUEUEENTRY se where sq.name IN ('RevaultingQueue', 'replQueue') AND sq.ida2a2 = se.ida3a5) UNION ALL (select pq.name, pq.queuestate, pq.enabled, null, null FROM PROCESSINGQUEUE PQ WHERE PQ.NAME LIKE 'wt.router.%')

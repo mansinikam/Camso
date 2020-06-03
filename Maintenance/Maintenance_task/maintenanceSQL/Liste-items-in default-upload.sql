@@ -1,0 +1,1 @@
+SELECT s.name , rv.name , rf.name , count(*) , sum(case when mori.createstampa2<trunc(sysdate)-30 THEN 1 ELSE 0 END)  FROM masteredonreplicaitem mori, replicafolder rf, replicavault rv, site s WHERE rf.ida2a2 = mori.ida3a4 AND rv.ida2a2 = rf.ida3a5 AND s.ida2a2 = rv.ida3a5 GROUP BY S.NAME, RV.NAME, RF.NAME ORDER BY s.name, rv.name, rf.name;
